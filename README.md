@@ -1,3 +1,12 @@
-# miniguia-estudos-notebooklm
-Atendimento Educacional Especializado: Concepções e Metodologias
-Escolhi o tema por ser pai de um especial com Trissomia 21 e como todo pai de especial passei por infinitos problemas na educação inclusiva
+meu-projeto-pneei/
+├── README.md
+├── docs/
+│   ├── referencias-web.md
+│   └── resumos/
+│       ├── vol-01-politica-e-fundamentos.md
+│       ├── vol-02-aee-concepcoes.md
+│       └── ...
+└── fontes/
+    ├── cadernos-pedagogicos-pneei-vol-1.pdf
+    ├── cadernos-pedagogicos-pneei-vol-2.pdf
+    └── ... (arquivos PDF locais)
